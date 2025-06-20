@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://files.catbox.moe/dmxoe7.jpeg" width="300" /><br>
-  <strong>🔥 ANCORE-MD 🔥</strong>
+  <strong>🔥ANCORE-MD🔥</strong>
 </h1>
 
 <p align="center"><i>The Friendly WhatsApp Bot - Powered by Corex with 💙</i></p>
