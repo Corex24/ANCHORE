@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/🌐%20Pair%20Session-ANCOREMD-red?style=for-the-badge&logo=whatsapp" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb6nHar2phHORBFhOn3p">
-    <img src="https://img.shields.io/badge/🫂%20WhatsApp%20Channel-Richie-success?style=for-the-badge&logo=whatsapp" />
+    <img src="https://img.shields.io/badge/🫂%20WhatsApp%20Channel-Corex-success?style=for-the-badge&logo=whatsapp" />
   </a>
   <a href="https://t.me/corex2410">
     <img src="https://img.shields.io/badge/💙%20Corex24-Telegram-blue?style=for-the-badge&logo=telegram" />
